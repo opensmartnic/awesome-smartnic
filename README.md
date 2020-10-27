@@ -16,6 +16,8 @@
 
 * Loom: Flexible and Efficient NIC Packet Scheduling.  *Brent Stephens et.al.* NSDI, 2019 [[Paper]](https://www.usenix.org/conference/nsdi19/presentation/stephens)
 
+* A Case for SmartNIC-accelerated Private Communication. *Duckwoo Kim et.al*. APNet, 2020 [[Paper]](https://dl.acm.org/doi/10.1145/3411029.3411034)
+
 * Towards Converged SmartNIC Architecture for Bare Metal and Public Clouds at Tencent Scale. *Layong Luo*. APNet, 2018 [[Slide]](https://conferences.sigcomm.org/events/apnet2018/slides/larry.pdf)
 
 * Your Programmable NIC Should be a Programmable Switch. *Brent Stephens et.al.* HotNets 2018 [[Paper]](https://www.cs.uic.edu/~brents/docs/panic.hotnets18.pdf) 
@@ -39,8 +41,13 @@
 ### Blogs
 
 * What Is a SmartNIC?  *Kevin Deierling*, Mellanox Blog, 2018 [[Website ]](https://blog.mellanox.com/2018/08/defining-smartnic/)
+
+* The new life of SmartNICs. Mark Silberstein, ACM SIGARCH, 2018 [[Website]](https://www.sigarch.org/the-new-life-of-smartnics/)
+
 * 如何评价微软在数据中心使用 FPGA 代替传统 CPU 的做法？*李博杰*，知乎 [[Website]](https://www.zhihu.com/question/24174597/answer/138717507) 
+
 * SmartNIC那些事. 唐杰账号（微信公众号）
+
 * <https://wiki.libvirt.org/page/Virtio> 
 
 ### Patents
