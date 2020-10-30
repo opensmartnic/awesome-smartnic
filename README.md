@@ -35,7 +35,7 @@
 
 * 如何评价微软在数据中心使用 FPGA 代替传统 CPU 的做法？*李博杰*，知乎 [[Website]](https://www.zhihu.com/question/24174597/answer/138717507) 
 
-* SmartNIC那些事. 唐杰账号（微信公众号）
+* SmartNIC那些事. 唐杰账号（微信公众号）[Websit [1](https://mp.weixin.qq.com/s/jg0VVDrwn_hGb9G43Z_l7g), [2](https://mp.weixin.qq.com/s/q2620UtrmgvryTnLPH0Hbg), [3](https://mp.weixin.qq.com/s/os-ehp_uaDk3Z2-D4BCsMg), [4](https://mp.weixin.qq.com/s/xCQSG6c6LrCt-nwPjeDOvw), [5](https://mp.weixin.qq.com/s/QcHCv-RUvNB24GDXIcvrXw), [6](https://mp.weixin.qq.com/s/p5JbP8JKAiULE8BF_YCfNA), [7](https://mp.weixin.qq.com/s/EAB-fc9ZZwpki6A6M5sjlQ), [8](https://mp.weixin.qq.com/s/fjV3e4-q4Nk-a_uNRoaHFA), [9](https://mp.weixin.qq.com/s/T-ZY6N22p18w-qsPmT7srQ), [10](https://mp.weixin.qq.com/s/fo2s3BJ4a_93sK-wpW5S8w)]
 
 * <https://wiki.libvirt.org/page/Virtio> 
 
