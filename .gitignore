@@ -1,0 +1,9 @@
+*.tmp
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsd*
+
+.Trash-*
+.DS_Store
