@@ -40,7 +40,7 @@
 
 
 
-![](\f1.PNG)
+![](f1.PNG)
 
 + 我们把每个channel的endpoints叫做**Queue Pairs**（QPs）。每个QP包括一个Send Queue和Receive Queue。如果一个application需要不止一个连接，那么就创建多个QPs。每个application利用QP去获取IB’s messaging service,为了避免牵扯到os，那么在每个channel终端的application要能直接的访问QPs：通过把QPs直接映射到每个application的虚拟地址空间实现。如此，在每个connection终端的application可以直接访问channel的虚拟地址。这是**Channel I/O**的概念。
 
@@ -72,7 +72,7 @@
   
   **注意以上例子是两种传输方法结合使用，一个管理channel，一个管理memory**
 
-![](\f2.PNG)
+![](f2.PNG)
 
 整体的实现架构如figure2所示，仍然需要一个完整的网络栈。与传统网络栈相比，传输消息更简单。
 
@@ -106,7 +106,7 @@ RDMA messaging service带来了 cpu几乎0利用率
 
 #### Chapter 4 Designing with Infiniband
 
-![](\f8.PNG)
+![](f8.PNG)
 
 + OpenFabrics Alliance提供整套的各个软件部分：Open Fabrics Enterprise Distribution  即OFED。OFED提供的UpperLayerProtocols(ULPs)可以让一个已经存在的应用轻松利用IB。每个ULP分成两个接口，一个面向上层应用程序的接口，一个与下层S/W Software Interface中定义的QPs联系 。
 
@@ -116,7 +116,7 @@ RDMA messaging service带来了 cpu几乎0利用率
 
   ​             等如图9
 
-  ![](E:\2020文献阅读+项目\202009smartnic\some records\f9.PNG)
+  ![](f9.PNG)
 
 + 传统的API提供针对某一种的服务。例如SOCKET API，给应用提供获取网络服务的方式，也与底层的TCP/IP网络相关联。现在数据中心网络认为由三种互联组成：network,storage,IPC。每种要有自己的物理层，协议栈，以及一套应用层API。但是，在IB体系架构中ULPs提供一系列接口使得应用可以同时获得network service,storage service,IPC service 等，并且这些服务都是用同一种下层网络。
 
