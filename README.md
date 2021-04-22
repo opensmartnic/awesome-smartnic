@@ -2,40 +2,24 @@
 
 ### Papers
 
+* The nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency. *Stephen Ibanez, et.al*. Preprint, 2020 [[Paper]](https://arxiv.org/pdf/2010.12114v1.pdf)
 * Lynx: A SmartNIC-driven Accelerator-centric Architecture for Network Servers. *Maroun  Tork, et.al.* ASPLOS, 2020  [[Paper]](https://marksilberstein.com/wp-content/uploads/2020/02/lynx_asplos20.pdf) [[Slide]](https://marksilberstein.com/wp-content/uploads/2020/02/1105-Lynx-final.pdf) [[Code]](https://github.com/acsl-technion/lynx)
-
 * LeapIO: Efficient and Portable Virtual NVMe Storage on ARM SoCs. *Huaicheng Li, et.al.* ASPLOS, 2020 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/LeapIO-ASPLOS20.pdf)
-
 * hXDP: Efficient Software Packet Processing on FPGA NICs. *Marco Spaziani Brunella, et.al.* OSDI, 2020 [[Paper]](https://www.usenix.org/conference/osdi20/presentation/brunella) [[Slide]](https://www.usenix.org/conference/osdi20/presentation/brunella) [[Code]](https://github.com/axbryd/hXDP-Artifacts)
-
 * PANIC: A High-Performance Programmable NIC for Multi-tenant Networks. *Jiaxin Lin, et. al.* OSDI, 2020 [[Paper]](https://www.usenix.org/conference/osdi20/presentation/lin) [[Slide]](https://www.usenix.org/conference/osdi20/presentation/lin) [[Code]](https://bitbucket.org/uw-madison-networking-research/panic_osdi20_artifact/src/master/)
-
 * Corundum: An Open-Source 100-Gbps NIC. *Alex Forencich, et.al.* FCCM, 2020 [[Paper]](http://cseweb.ucsd.edu/~snoeren/papers/corundum-fccm20.pdf) [[Slide]](https://www.fccm.org/past/2020/forums/topic/corundum-an-open-source-100-gbps-nic/) [[Code]](https://github.com/corundum/corundum)
-
 * iPipe: A Framework for Building Distributed Applications on SmartNICs. *Ming Liu et.al.* SIGCOMM, 2019 [[Paper]](https://homes.cs.washington.edu/~arvind/[Paper]s/ipipe.pdf) [[Slide]](http://conferences.sigcomm.org/sigcomm/2019/files/slides/paper_7_3.pptx)
-
 * E3: Energy-Efficient Microservices on SmartNIC-Accelerated Servers. *Ming Liu et.al.* USENIX ATC, 2019 [[Paper]](https://www.usenix.org/conference/atc19/presentation/liu-ming)
-
 * Azure Accelerated Networking: SmartNICs in the Public Cloud. *Daniel Firestone et.al.* NSDI, 2018 [[Paper]](https://www.usenix.org/conference/nsdi18/presentation/firestone)
-
 * Floem: A Programming System for NIC-Accelerated Network Applications. *Phitchaya Mangpo Phothilimthana et.al.* OSDI, 2018 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/phothilimthana) [[Slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_phothilimthana.pdf) 
-
 * Beyond SmartNICs: Towards a Fully Programmable Cloud (Invited Paper). *Adrian Caulfield et.al.* HPSR, 2018 [[Paper]](https://ieeexplore.ieee.org/document/8850757/)
-
 * UNO: uniflying host and smart NIC offload for flexible packet processing.  *Yanfang  Le et.al.* SoCC 2017 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3127479.3132252)  
-
 * Loom: Flexible and Efficient NIC Packet Scheduling.  *Brent Stephens et.al.* NSDI, 2019 [[Paper]](https://www.usenix.org/conference/nsdi19/presentation/stephens)
-
 * A Case for SmartNIC-accelerated Private Communication. *Duckwoo Kim et.al*. APNet, 2020 [[Paper]](https://dl.acm.org/doi/10.1145/3411029.3411034)
-
 * Towards Converged SmartNIC Architecture for Bare Metal and Public Clouds at Tencent Scale. *Layong Luo*. APNet, 2018 [[Slide]](https://conferences.sigcomm.org/events/apnet2018/slides/larry.pdf)
-
 * Your Programmable NIC Should be a Programmable Switch. *Brent Stephens et.al.* HotNets 2018 [[Paper]](https://www.cs.uic.edu/~brents/docs/panic.hotnets18.pdf) 
-
 * NICA: An Infrastructure for Inline Acceleration of Network Applications.  *Haggai Eran, et.al.* USENIX ATC, 2019 [[Paper]](https://www.usenix.org/conference/atc19/presentation/eran) [[Code]](https://github.com/acsl-technion/nica)
-
 * KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC. *Bojie Li, et.al.* SOSP 2017 [[Paper]](https://www.microsoft.com/en-us/research/publication/kv-direct-high-performance-memory-key-value-store-programmable-nic/) 
-
 * UniSec: a unified security framework with SmartNIC acceleration in public cloud. *Jinli Yan, et.al.* TURC 2019
 
 ### Reports
