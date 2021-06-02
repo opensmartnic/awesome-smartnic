@@ -4,6 +4,7 @@
 
 * The nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency. *Stephen Ibanez, et.al*. Preprint, 2020 [[Paper]](https://arxiv.org/pdf/2010.12114v1.pdf)
 * Lynx: A SmartNIC-driven Accelerator-centric Architecture for Network Servers. *Maroun  Tork, et.al.* ASPLOS, 2020  [[Paper]](https://marksilberstein.com/wp-content/uploads/2020/02/lynx_asplos20.pdf) [[Slide]](https://marksilberstein.com/wp-content/uploads/2020/02/1105-Lynx-final.pdf) [[Code]](https://github.com/acsl-technion/lynx)
+* SmartNIC Performance Isolation with FairNIC: Programmable Networking for the Cloud. *Stewart Grant, et.al.* SIGCOMM, 2020 [[Paper]](http://cseweb.ucsd.edu/~snoeren/papers/fairnic-sigcomm20.pdf)
 * LeapIO: Efficient and Portable Virtual NVMe Storage on ARM SoCs. *Huaicheng Li, et.al.* ASPLOS, 2020 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/LeapIO-ASPLOS20.pdf)
 * hXDP: Efficient Software Packet Processing on FPGA NICs. *Marco Spaziani Brunella, et.al.* OSDI, 2020 [[Paper]](https://www.usenix.org/conference/osdi20/presentation/brunella) [[Slide]](https://www.usenix.org/conference/osdi20/presentation/brunella) [[Code]](https://github.com/axbryd/hXDP-Artifacts)
 * PANIC: A High-Performance Programmable NIC for Multi-tenant Networks. *Jiaxin Lin, et. al.* OSDI, 2020 [[Paper]](https://www.usenix.org/conference/osdi20/presentation/lin) [[Slide]](https://www.usenix.org/conference/osdi20/presentation/lin) [[Code]](https://bitbucket.org/uw-madison-networking-research/panic_osdi20_artifact/src/master/)
