@@ -22,6 +22,7 @@
 * NICA: An Infrastructure for Inline Acceleration of Network Applications.  *Haggai Eran, et.al.* USENIX ATC, 2019 [[Paper]](https://www.usenix.org/conference/atc19/presentation/eran) [[Code]](https://github.com/acsl-technion/nica)
 * KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC. *Bojie Li, et.al.* SOSP 2017 [[Paper]](https://www.microsoft.com/en-us/research/publication/kv-direct-high-performance-memory-key-value-store-programmable-nic/) 
 * UniSec: a unified security framework with SmartNIC acceleration in public cloud. *Jinli Yan, et.al.* TURC 2019
+* The Programmable Data Plane: Abstractions, Architectures, Algorithms, and Applications. *OLIVER MICHEL et.al.* ACM Computing Surveys, 2021
 
 ### Reports
 
@@ -42,7 +43,11 @@
 
 * 如何评价微软在数据中心使用 FPGA 代替传统 CPU 的做法？*李博杰*，知乎 [[Website]](https://www.zhihu.com/question/24174597/answer/138717507) 
 
-* SmartNIC那些事. 唐杰账号（微信公众号）[Websit [1](https://mp.weixin.qq.com/s/jg0VVDrwn_hGb9G43Z_l7g), [2](https://mp.weixin.qq.com/s/q2620UtrmgvryTnLPH0Hbg), [3](https://mp.weixin.qq.com/s/os-ehp_uaDk3Z2-D4BCsMg), [4](https://mp.weixin.qq.com/s/xCQSG6c6LrCt-nwPjeDOvw), [5](https://mp.weixin.qq.com/s/QcHCv-RUvNB24GDXIcvrXw), [6](https://mp.weixin.qq.com/s/p5JbP8JKAiULE8BF_YCfNA), [7](https://mp.weixin.qq.com/s/EAB-fc9ZZwpki6A6M5sjlQ), [8](https://mp.weixin.qq.com/s/fjV3e4-q4Nk-a_uNRoaHFA), [9](https://mp.weixin.qq.com/s/T-ZY6N22p18w-qsPmT7srQ), [10](https://mp.weixin.qq.com/s/fo2s3BJ4a_93sK-wpW5S8w)]
+* SmartNIC那些事. 唐杰账号（微信公众号）[Websit [1](https://mp.weixin.qq.com/s/jg0VVDrwn_hGb9G43Z_l7g), [2](https://mp.weixin.qq.com/s/q2620UtrmgvryTnLPH0Hbg), [3](https://mp.weixin.qq.com/s/os-ehp_uaDk3Z2-D4BCsMg), [4](https://mp.weixin.qq.com/s/xCQSG6c6LrCt-nwPjeDOvw), [5](https://mp.weixin.qq.com/s/QcHCv-RUvNB24GDXIcvrXw), [6](https://mp.weixin.qq.com/s/p5JbP8JKAiULE8BF_YCfNA), [7](https://mp.weixin.qq.com/s/EAB-fc9ZZwpki6A6M5sjlQ), [8](https://mp.weixin.qq.com/s/fjV3e4-q4Nk-a_uNRoaHFA), [9](https://mp.weixin.qq.com/s/T-ZY6N22p18w-qsPmT7srQ), [10](https://mp.weixin.qq.com/s/fo2s3BJ4a_93sK-wpW5S8w)] [[Video](https://v.youku.com/v_show/id_XNDYyNTEzMTg5Mg==.html)]
+
+* SmartNICs and SmartSSDs, the Future of Smart Acceleration, *Scott Schweitzer*, SNIA SDC, 2020 [[Website&Slide](https://www.snia.org/educational-library/smartnics-and-smartssds-future-smart-acceleration-2020)]
+
+* Have SmartNIC – Will Compute,  *Scott Schweitzer*, ElectronicDesign, 2020-2021[[Website](https://www.electronicdesign.com/industrial-automation/whitepaper/21134485/xilinx-have-smartnic-will-compute)]
 
 * <https://wiki.libvirt.org/page/Virtio> 
 
