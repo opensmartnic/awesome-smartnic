@@ -14,7 +14,7 @@
 * Azure Accelerated Networking: SmartNICs in the Public Cloud. *Daniel Firestone et.al.* NSDI, 2018 [[Paper]](https://www.usenix.org/conference/nsdi18/presentation/firestone)
 * Floem: A Programming System for NIC-Accelerated Network Applications. *Phitchaya Mangpo Phothilimthana et.al.* OSDI, 2018 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/phothilimthana) [[Slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_phothilimthana.pdf) 
 * Beyond SmartNICs: Towards a Fully Programmable Cloud (Invited Paper). *Adrian Caulfield et.al.* HPSR, 2018 [[Paper]](https://ieeexplore.ieee.org/document/8850757/)
-* UNO: uniflying host and smart NIC offload for flexible packet processing.  *Yanfang  Le et.al.* SoCC 2017 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3127479.3132252)  
+* UNO: unifying host and smart NIC offload for flexible packet processing.  *Yanfang  Le et.al.* SoCC 2017 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3127479.3132252)  
 * Loom: Flexible and Efficient NIC Packet Scheduling.  *Brent Stephens et.al.* NSDI, 2019 [[Paper]](https://www.usenix.org/conference/nsdi19/presentation/stephens)
 * A Case for SmartNIC-accelerated Private Communication. *Duckwoo Kim et.al*. APNet, 2020 [[Paper]](https://dl.acm.org/doi/10.1145/3411029.3411034)
 * Towards Converged SmartNIC Architecture for Bare Metal and Public Clouds at Tencent Scale. *Layong Luo*. APNet, 2018 [[Slide]](https://conferences.sigcomm.org/events/apnet2018/slides/larry.pdf)
@@ -22,10 +22,11 @@
 * NICA: An Infrastructure for Inline Acceleration of Network Applications.  *Haggai Eran, et.al.* USENIX ATC, 2019 [[Paper]](https://www.usenix.org/conference/atc19/presentation/eran) [[Code]](https://github.com/acsl-technion/nica)
 * KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC. *Bojie Li, et.al.* SOSP 2017 [[Paper]](https://www.microsoft.com/en-us/research/publication/kv-direct-high-performance-memory-key-value-store-programmable-nic/) 
 * UniSec: a unified security framework with SmartNIC acceleration in public cloud. *Jinli Yan, et.al.* TURC 2019
-* The Programmable Data Plane: Abstractions, Architectures, Algorithms, and Applications. *OLIVER MICHEL et.al.* ACM Computing Surveys, 2021
+* The Programmable Data Plane: Abstractions, Architectures, Algorithms, and Applications. *OLIVER MICHEL et.al.* ACM Computing Surveys, 2021 [[Paper](https://dl.acm.org/doi/10.1145/3447868)]
 
 ### Reports
 
+* Performance Characteristics of the BlueField-2 SmartNIC. *Jianshen Liu, et.al.* Preprint, 2021[[Paper](https://arxiv.org/abs/2105.06619)]
 * Fungible Ups Data-Center Efficiency. *Bob Wheeler*, The Linley Group, 2020
 * Mellanox Right-Sizes Smart-NIC SoC.  *Bob Wheeler*, The Linley Group, 2019
 * Pensando, Xilinx Debut Smart NICs.  *Bob Wheeler*, The Linley Group, 2020
