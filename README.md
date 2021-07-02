@@ -27,14 +27,22 @@
 ### Reports
 
 * Performance Characteristics of the BlueField-2 SmartNIC. *Jianshen Liu, et.al.* Preprint, 2021[[Paper](https://arxiv.org/abs/2105.06619)]
+
+* Investigating Scientific Workload Acceleration using BlueField SmartNICs. *Brody Williams, et.al.* OSTI.GOV/Technical Report, 2020 [[Report](https://doi.org/10.2172/1607904)]
+
+* Exploring Mellanox Bluefield SmartNICs as Accelerators for Heterogeneous Architectures.  *Brody Williams, et.al.* OSTI.GOV/Technical Report, 2019 [[Report](https://doi.org/10.2172/1565824)]
+
 * Fungible Ups Data-Center Efficiency. *Bob Wheeler*, The Linley Group, 2020
+
 * Mellanox Right-Sizes Smart-NIC SoC.  *Bob Wheeler*, The Linley Group, 2019
+
 * Pensando, Xilinx Debut Smart NICs.  *Bob Wheeler*, The Linley Group, 2020
+
 * How to Design SmartNICs Using FPGAs to Increase Server Compute Capacity. Achronix, 2019 [[Website]](https://www.achronix.com/sites/default/files/docs/How_to_Design_SmartNICs_Using_FPGAs_to_Increase_Server_Compute_Capacity_WP017.pdf)
 
 ### Projects
 
-* OpenSNAPI: Toward a Unified API for SmartNICs [[Website]](https://www.ucfconsortium.org/projects/opensnapi/)
+* OpenSNAPI: Toward a Unified API for SmartNICs [[Website]](https://www.ucfconsortium.org/projects/opensnapi/) [[Report](https://doi.org/10.2172/1645063)]
 
 ### Blogs
 
