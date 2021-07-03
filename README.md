@@ -43,6 +43,7 @@
 ### Projects
 
 * OpenSNAPI: Toward a Unified API for SmartNICs [[Website]](https://www.ucfconsortium.org/projects/opensnapi/) [[Report](https://doi.org/10.2172/1645063)]
+* OpenNIC: An FPGA-based NIC platform for the open source community. *Xilinx*. [[Website](https://github.com/Xilinx/open-nic)] [Related Projects: [open-nic-shell](https://github.com/Xilinx/open-nic-shell), [driver](https://github.com/Xilinx/open-nic-driver)] [[Video](https://www.bilibili.com/video/BV1V64y1m7g3)]
 
 ### Blogs
 
