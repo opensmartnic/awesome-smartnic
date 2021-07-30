@@ -2,36 +2,36 @@
 
 ### Papers
 
-* The nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency. *Stephen Ibanez, et.al*. Preprint, 2020 [[Paper]](https://arxiv.org/pdf/2010.12114v1.pdf)
-* Lynx: A SmartNIC-driven Accelerator-centric Architecture for Network Servers. *Maroun  Tork, et.al.* ASPLOS, 2020  [[Paper]](https://marksilberstein.com/wp-content/uploads/2020/02/lynx_asplos20.pdf) [[Slide]](https://marksilberstein.com/wp-content/uploads/2020/02/1105-Lynx-final.pdf) [[Code]](https://github.com/acsl-technion/lynx)
-* SmartNIC Performance Isolation with FairNIC: Programmable Networking for the Cloud. *Stewart Grant, et.al.* SIGCOMM, 2020 [[Paper]](http://cseweb.ucsd.edu/~snoeren/papers/fairnic-sigcomm20.pdf)
-* LeapIO: Efficient and Portable Virtual NVMe Storage on ARM SoCs. *Huaicheng Li, et.al.* ASPLOS, 2020 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/LeapIO-ASPLOS20.pdf)
+* The nanoPU: A Nanosecond Network Stack for Datacenters. *Stephen Ibanez, et.al*. OSDI, 2021 [[Paper]](https://www.usenix.org/conference/osdi21/presentation/ibanez) [[Slide]](https://www.usenix.org/conference/osdi21/presentation/ibanez)
+* Autonomous NIC offload. *Boris Pismenny, et.al.* ASPLOS, 2021 [[Paper]](https://dl.acm.org/doi/10.1145/3445814.3446732?cid=81461648878)
+* The Programmable Data Plane: Abstractions, Architectures, Algorithms, and Applications. *Oliver Michel, et.al.* ACM Computing Surveys, 2021 [[Paper](https://dl.acm.org/doi/10.1145/3447868)]
 * hXDP: Efficient Software Packet Processing on FPGA NICs. *Marco Spaziani Brunella, et.al.* OSDI, 2020 [[Paper]](https://www.usenix.org/conference/osdi20/presentation/brunella) [[Slide]](https://www.usenix.org/conference/osdi20/presentation/brunella) [[Code]](https://github.com/axbryd/hXDP-Artifacts)
 * PANIC: A High-Performance Programmable NIC for Multi-tenant Networks. *Jiaxin Lin, et. al.* OSDI, 2020 [[Paper]](https://www.usenix.org/conference/osdi20/presentation/lin) [[Slide]](https://www.usenix.org/conference/osdi20/presentation/lin) [[Code]](https://bitbucket.org/uw-madison-networking-research/panic_osdi20_artifact/src/master/)
+* Clara: Performance Clarity for SmartNIC Offloading. *Yiming Qiu, et.al.* HotNets, 2020 [[Paper](https://mgliu.sites.cs.wisc.edu/papers/Clara-hotnets20.pdf)]
+* SmartNIC Performance Isolation with FairNIC: Programmable Networking for the Cloud. *Stewart Grant, et.al.* SIGCOMM, 2020 [[Paper]](http://cseweb.ucsd.edu/~snoeren/papers/fairnic-sigcomm20.pdf)
+* A Case for SmartNIC-accelerated Private Communication. *Duckwoo Kim, et.al*. APNet, 2020 [[Paper]](https://dl.acm.org/doi/10.1145/3411029.3411034)
 * Corundum: An Open-Source 100-Gbps NIC. *Alex Forencich, et.al.* FCCM, 2020 [[Paper]](http://cseweb.ucsd.edu/~snoeren/papers/corundum-fccm20.pdf) [[Slide]](https://www.fccm.org/past/2020/forums/topic/corundum-an-open-source-100-gbps-nic/) [[Code]](https://github.com/corundum/corundum)
-* iPipe: A Framework for Building Distributed Applications on SmartNICs. *Ming Liu et.al.* SIGCOMM, 2019 [[Paper]](https://homes.cs.washington.edu/~arvind/[Paper]s/ipipe.pdf) [[Slide]](http://conferences.sigcomm.org/sigcomm/2019/files/slides/paper_7_3.pptx)
-* E3: Energy-Efficient Microservices on SmartNIC-Accelerated Servers. *Ming Liu et.al.* USENIX ATC, 2019 [[Paper]](https://www.usenix.org/conference/atc19/presentation/liu-ming)
-* Azure Accelerated Networking: SmartNICs in the Public Cloud. *Daniel Firestone et.al.* NSDI, 2018 [[Paper]](https://www.usenix.org/conference/nsdi18/presentation/firestone)
-* Floem: A Programming System for NIC-Accelerated Network Applications. *Phitchaya Mangpo Phothilimthana et.al.* OSDI, 2018 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/phothilimthana) [[Slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_phothilimthana.pdf) 
-* Beyond SmartNICs: Towards a Fully Programmable Cloud (Invited Paper). *Adrian Caulfield et.al.* HPSR, 2018 [[Paper]](https://ieeexplore.ieee.org/document/8850757/)
-* UNO: unifying host and smart NIC offload for flexible packet processing.  *Yanfang  Le et.al.* SoCC 2017 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3127479.3132252)  
-* Loom: Flexible and Efficient NIC Packet Scheduling.  *Brent Stephens et.al.* NSDI, 2019 [[Paper]](https://www.usenix.org/conference/nsdi19/presentation/stephens)
-* A Case for SmartNIC-accelerated Private Communication. *Duckwoo Kim et.al*. APNet, 2020 [[Paper]](https://dl.acm.org/doi/10.1145/3411029.3411034)
-* Towards Converged SmartNIC Architecture for Bare Metal and Public Clouds at Tencent Scale. *Layong Luo*. APNet, 2018 [[Slide]](https://conferences.sigcomm.org/events/apnet2018/slides/larry.pdf)
-* Your Programmable NIC Should be a Programmable Switch. *Brent Stephens et.al.* HotNets 2018 [[Paper]](https://www.cs.uic.edu/~brents/docs/panic.hotnets18.pdf) 
+* Lynx: A SmartNIC-driven Accelerator-centric Architecture for Network Servers. *Maroun  Tork, et.al.* ASPLOS, 2020  [[Paper]](https://marksilberstein.com/wp-content/uploads/2020/02/lynx_asplos20.pdf) [[Slide]](https://marksilberstein.com/wp-content/uploads/2020/02/1105-Lynx-final.pdf) [[Code]](https://github.com/acsl-technion/lynx)
+* LeapIO: Efficient and Portable Virtual NVMe Storage on ARM SoCs. *Huaicheng Li, et.al.* ASPLOS, 2020 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/LeapIO-ASPLOS20.pdf)
+* AccelTCP: Accelerating Network Applications with Stateful TCP Offloading. *YoungGyoun Moon, et.al.* NSDI, 2020 [[Paper](https://www.usenix.org/system/files/nsdi20-paper-moon.pdf)]
+* iPipe: A Framework for Building Distributed Applications on SmartNICs. *Ming Liu, et.al.* SIGCOMM, 2019 [[Paper]](https://homes.cs.washington.edu/~arvind/[Paper]s/ipipe.pdf) [[Slide]](http://conferences.sigcomm.org/sigcomm/2019/files/slides/paper_7_3.pptx)
+* E3: Energy-Efficient Microservices on SmartNIC-Accelerated Servers. *Ming Liu, et.al.* USENIX ATC, 2019 [[Paper]](https://www.usenix.org/conference/atc19/presentation/liu-ming)
 * NICA: An Infrastructure for Inline Acceleration of Network Applications.  *Haggai Eran, et.al.* USENIX ATC, 2019 [[Paper]](https://www.usenix.org/conference/atc19/presentation/eran) [[Code]](https://github.com/acsl-technion/nica)
-* KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC. *Bojie Li, et.al.* SOSP 2017 [[Paper]](https://www.microsoft.com/en-us/research/publication/kv-direct-high-performance-memory-key-value-store-programmable-nic/) 
-* UniSec: a unified security framework with SmartNIC acceleration in public cloud. *Jinli Yan, et.al.* TURC 2019
-* The Programmable Data Plane: Abstractions, Architectures, Algorithms, and Applications. *OLIVER MICHEL et.al.* ACM Computing Surveys, 2021 [[Paper](https://dl.acm.org/doi/10.1145/3447868)]
-* IncBricks: Toward InNetwork Computation with an In-Network Cache,*Ming Liu, et.al.*Architecture Support for Programming Languages and Operating Systems (ASPLOS), 2017.[[Paper](https://mgliu.sites.cs.wisc.edu/papers/IncBricks-asplos17.pdf)]
-* Clara: Performance Clarity for SmartNIC Offloading.*Yiming Qiu, Qiao Kang, Ming Liu, Ang Chen.*ACM Workshop on Hot Topics in Networks (HotNets), 2020 [[Paper](https://mgliu.sites.cs.wisc.edu/papers/Clara-hotnets20.pdf)]
-* FlexNIC: Rethinking Network DMA.*Antoine Kaufmann,et.al* In 15th Workshop on Hot Topics in Operating Systems, Kartause Ittingen, Switzerland, May 2015.[[Paper](https://people.mpi-sws.org/~antoinek/documents/15hotos_flexnic.pdf)] [[Slide](https://people.mpi-sws.org/~antoinek/documents/15hotos_flexnic_slides.pdf)]
-* High Performance Packet Processing with FlexNIC.*Antoine Kaufmann,et.al*. ASPLOS, 2016 [[Paper](https://people.mpi-sws.org/~antoinek/documents/16asplos_flexnic.pdf)] [[Slide](https://people.mpi-sws.org/~antoinek/documents/16asplos_flexnic_slides.pdf)]
-* Autonomous NIC offload. *Boris Pismenny, Haggai Eran,et.al*. ASPLOS, 2021[[Paper](https://dl.acm.org/doi/10.1145/3445814.3446732?cid=81461648878)]
-* AccelTCP: Accelerating Network Applications with Stateful TCP Offloading. *YoungGyoun Moon, et,al.* NSDI'20 [[Paper](https://www.usenix.org/system/files/nsdi20-paper-moon.pdf)]
-* Accelerating Flow Processing Middleboxes with Programmable NICs.*YoungGyoun Moon, et.al.* ACM APSys'18. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3265723.3265744)]
-* ClickNP: Highly Flexible and High Performance Network Processing with Reconfigurable Hardware. *Bojie Li, et.al.* SIGCOMM ’16[[Paper](https://dl.acm.org/doi/pdf/10.1145/2934872.2934897)]
-* Security Offload Using the SmartNIC, A Programmable 10 Gbps Ethernet NIC.*Gerald Sabin; Mohammad Rashti.* NAECON 2015[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443082)]
+* UniSec: a unified security framework with SmartNIC acceleration in public cloud. *Jinli Yan, et.al.* TURC, 2019
+* Loom: Flexible and Efficient NIC Packet Scheduling.  *Brent Stephens, et.al.* NSDI, 2019 [[Paper]](https://www.usenix.org/conference/nsdi19/presentation/stephens)
+* Floem: A Programming System for NIC-Accelerated Network Applications. *Phitchaya Mangpo Phothilimthana, et.al.* OSDI, 2018 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/phothilimthana) [[Slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_phothilimthana.pdf) 
+* Your Programmable NIC Should be a Programmable Switch. *Brent Stephens, et.al.* HotNets, 2018 [[Paper]](https://www.cs.uic.edu/~brents/docs/panic.hotnets18.pdf) 
+* Accelerating Flow Processing Middleboxes with Programmable NICs. *YoungGyoun Moon, et.al.* ACM APSys, 2018 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3265723.3265744)]
+* Towards Converged SmartNIC Architecture for Bare Metal and Public Clouds at Tencent Scale. *Layong Luo*. APNet, 2018 [[Slide]](https://conferences.sigcomm.org/events/apnet2018/slides/larry.pdf)
+* Beyond SmartNICs: Towards a Fully Programmable Cloud (Invited Paper). *Adrian Caulfield, et.al.* HPSR, 2018 [[Paper]](https://ieeexplore.ieee.org/document/8850757/)
+* Azure Accelerated Networking: SmartNICs in the Public Cloud. *Daniel Firestone, et.al.* NSDI, 2018 [[Paper]](https://www.usenix.org/conference/nsdi18/presentation/firestone)
+* UNO: unifying host and smart NIC offload for flexible packet processing.  *Yanfang  Le, et.al.* SoCC 2017 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3127479.3132252)  
+* KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC. *Bojie Li, et.al.* SOSP, 2017 [[Paper]](https://www.microsoft.com/en-us/research/publication/kv-direct-high-performance-memory-key-value-store-programmable-nic/) 
+* IncBricks: Toward InNetwork Computation with an In-Network Cache. *Ming Liu, et.al.* ASPLOS, 2017 [[Paper](https://mgliu.sites.cs.wisc.edu/papers/IncBricks-asplos17.pdf)]
+* ClickNP: Highly Flexible and High Performance Network Processing with Reconfigurable Hardware. *Bojie Li, et.al.* SIGCOMM, 2016 [[Paper](https://dl.acm.org/doi/pdf/10.1145/2934872.2934897)]
+* High Performance Packet Processing with FlexNIC. *Antoine Kaufmann, et.al.* ASPLOS, 2016 [[Paper](https://people.mpi-sws.org/~antoinek/documents/16asplos_flexnic.pdf)] [[Slide](https://people.mpi-sws.org/~antoinek/documents/16asplos_flexnic_slides.pdf)]
+* FlexNIC: Rethinking Network DMA. *Antoine Kaufmann, et.al.* HotOS, 2015 [[Paper](https://people.mpi-sws.org/~antoinek/documents/15hotos_flexnic.pdf)] [[Slide](https://people.mpi-sws.org/~antoinek/documents/15hotos_flexnic_slides.pdf)]
+* Security Offload Using the SmartNIC, A Programmable 10 Gbps Ethernet NIC. *Gerald Sabin, et.al.* NAECON, 2015 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443082)]
 
 ### Reports
 
