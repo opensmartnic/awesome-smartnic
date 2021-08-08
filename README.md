@@ -73,3 +73,7 @@
 ### Patents
 
 * REMOTE SMART NIC - BASED SERVICE ACCELERATION. *US Patent.* *US 20200278892A1* 
+
+### Researcher
+
+![image-20210808204724846](researcher.png)
