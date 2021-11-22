@@ -2,6 +2,12 @@
 
 ### Papers
 
+- LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483565) 
+
+- Automated SmartNIC Offloading Insights for Network Functions.*Yiming Qiu, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483583)
+
+- Xenic: SmartNIC-Accelerated Distributed Transactions. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483555)
+
 * The nanoPU: A Nanosecond Network Stack for Datacenters. *Stephen Ibanez, et.al*. OSDI, 2021 [[Paper]](https://www.usenix.org/conference/osdi21/presentation/ibanez) [[Slide]](https://www.usenix.org/conference/osdi21/presentation/ibanez)
 * Autonomous NIC offload. *Boris Pismenny, et.al.* ASPLOS, 2021 [[Paper]](https://dl.acm.org/doi/10.1145/3445814.3446732?cid=81461648878)
 * The Programmable Data Plane: Abstractions, Architectures, Algorithms, and Applications. *Oliver Michel, et.al.* ACM Computing Surveys, 2021 [[Paper](https://dl.acm.org/doi/10.1145/3447868)]
