@@ -2,7 +2,7 @@
 
 ### Papers
 
-- FlexTOE: Flexible TCP Offload with Fine-Grained Parallelism. *Rajath Shashidhara, et.al.* NSDI, 2022 [[Paper]](https://arxiv.org/abs/2110.10919)
+- FlexTOE: Flexible TCP Offload with Fine-Grained Parallelism. *Rajath Shashidhara, et.al.* NSDI, 2022 [[Paper]](https://www.usenix.org/conference/nsdi22/presentation/shashidhara) [[Code]](https://github.com/tcp-acceleration-service/FlexTOE)
 - LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483565) 
 - Automated SmartNIC Offloading Insights for Network Functions.*Yiming Qiu, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483583)
 - Xenic: SmartNIC-Accelerated Distributed Transactions. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483555)
