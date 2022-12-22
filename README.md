@@ -2,11 +2,15 @@
 
 ### Papers
 
+- AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing. *Junru Li, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/li-junru)
+- FpgaNIC: An FPGA-based Versatile 100Gb SmartNIC for GPUs. *Zeke Wang, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/wang-zeke) [[Code]](https://github.com/RC4ML/FpgaNIC)
+- Faster Software Packet Processing on FPGA NICs with eBPF Program Warping. *Marco Bonola, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/bonola)
 - FlexTOE: Flexible TCP Offload with Fine-Grained Parallelism. *Rajath Shashidhara, et.al.* NSDI, 2022 [[Paper]](https://www.usenix.org/conference/nsdi22/presentation/shashidhara) [[Code]](https://github.com/tcp-acceleration-service/FlexTOE)
 - LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483565) 
 - Automated SmartNIC Offloading Insights for Network Functions.*Yiming Qiu, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483583)
 - Xenic: SmartNIC-Accelerated Distributed Transactions. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483555)
 
+* Gimbal: Enabling Multi-tenant Storage Disaggregation on SmartNIC JBOFs. *Jaehong Min, et.al.*  SIGCOMM, 2021 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472940.pdf)
 * The nanoPU: A Nanosecond Network Stack for Datacenters. *Stephen Ibanez, et.al*. OSDI, 2021 [[Paper]](https://www.usenix.org/conference/osdi21/presentation/ibanez) [[Slide]](https://www.usenix.org/conference/osdi21/presentation/ibanez)
 * Autonomous NIC offload. *Boris Pismenny, et.al.* ASPLOS, 2021 [[Paper]](https://dl.acm.org/doi/10.1145/3445814.3446732?cid=81461648878)
 * The Programmable Data Plane: Abstractions, Architectures, Algorithms, and Applications. *Oliver Michel, et.al.* ACM Computing Surveys, 2021 [[Paper](https://dl.acm.org/doi/10.1145/3447868)]
@@ -42,17 +46,21 @@
 
 * Performance Characteristics of the BlueField-2 SmartNIC. *Jianshen Liu, et.al.* Preprint, 2021[[Paper](https://arxiv.org/abs/2105.06619)]
 
-* Investigating Scientific Workload Acceleration using BlueField SmartNICs. *Brody Williams, et.al.* OSTI.GOV/Technical Report, 2020 [[Report](https://doi.org/10.2172/1607904)]
+* Cisco Nexus SmartNIC. *Cisco.* 2021 [[Website]](https://www.cisco.com/c/en/us/products/interfaces-modules/nexus-smartnic/index.html)
 
-* Exploring Mellanox Bluefield SmartNICs as Accelerators for Heterogeneous Architectures.  *Brody Williams, et.al.* OSTI.GOV/Technical Report, 2019 [[Report](https://doi.org/10.2172/1565824)]
+* InnovaTM-2 Flex Open Programmable SmartNIC. *Mellanox.* 2020 [[Datasheet]](https://network.nvidia.com/files/doc-2020/pb-innova-2-flex.pdf)
+
+* Investigating Scientific Workload Acceleration using BlueField SmartNICs. *Brody Williams, et.al.* OSTI.GOV/Technical Report, 2020 [[Report](https://doi.org/10.2172/1607904)]
 
 * Fungible Ups Data-Center Efficiency. *Bob Wheeler*, The Linley Group, 2020
 
 * Mellanox Right-Sizes Smart-NIC SoC.  *Bob Wheeler*, The Linley Group, 2019
 
 * Pensando, Xilinx Debut Smart NICs.  *Bob Wheeler*, The Linley Group, 2020
+* Exploring Mellanox Bluefield SmartNICs as Accelerators for Heterogeneous Architectures.  *Brody Williams, et.al.* OSTI.GOV/Technical Report, 2019 [[Report](https://doi.org/10.2172/1565824)]
 
 * How to Design SmartNICs Using FPGAs to Increase Server Compute Capacity. Achronix, 2019 [[Website]](https://www.achronix.com/sites/default/files/docs/How_to_Design_SmartNICs_Using_FPGAs_to_Increase_Server_Compute_Capacity_WP017.pdf)
+
 
 ### Projects
 
@@ -79,6 +87,3 @@
 
 * REMOTE SMART NIC - BASED SERVICE ACCELERATION. *US Patent.* *US 20200278892A1* 
 
-### Researcher
-
-![image-20210808204724846](researcher.png)
