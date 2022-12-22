@@ -12,6 +12,7 @@
 
 * Gimbal: Enabling Multi-tenant Storage Disaggregation on SmartNIC JBOFs. *Jaehong Min, et.al.*  SIGCOMM, 2021 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472940.pdf)
 * The nanoPU: A Nanosecond Network Stack for Datacenters. *Stephen Ibanez, et.al*. OSDI, 2021 [[Paper]](https://www.usenix.org/conference/osdi21/presentation/ibanez) [[Slide]](https://www.usenix.org/conference/osdi21/presentation/ibanez)
+* Enabling Compute-Communication Overlap in Distributed Training Platforms. *Saeed Rashidi, et.al.* ISCA, 2021 [[Paper]](https://synergy.ece.gatech.edu/files/2021/05/ace_isca2021.pdf)
 * Autonomous NIC offload. *Boris Pismenny, et.al.* ASPLOS, 2021 [[Paper]](https://dl.acm.org/doi/10.1145/3445814.3446732?cid=81461648878)
 * The Programmable Data Plane: Abstractions, Architectures, Algorithms, and Applications. *Oliver Michel, et.al.* ACM Computing Surveys, 2021 [[Paper](https://dl.acm.org/doi/10.1145/3447868)]
 * hXDP: Efficient Software Packet Processing on FPGA NICs. *Marco Spaziani Brunella, et.al.* OSDI, 2020 [[Paper]](https://www.usenix.org/conference/osdi20/presentation/brunella) [[Slide]](https://www.usenix.org/conference/osdi20/presentation/brunella) [[Code]](https://github.com/axbryd/hXDP-Artifacts)
@@ -30,6 +31,7 @@
 * Loom: Flexible and Efficient NIC Packet Scheduling.  *Brent Stephens, et.al.* NSDI, 2019 [[Paper]](https://www.usenix.org/conference/nsdi19/presentation/stephens)
 * Floem: A Programming System for NIC-Accelerated Network Applications. *Phitchaya Mangpo Phothilimthana, et.al.* OSDI, 2018 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/phothilimthana) [[Slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_phothilimthana.pdf) 
 * Your Programmable NIC Should be a Programmable Switch. *Brent Stephens, et.al.* HotNets, 2018 [[Paper]](https://www.cs.uic.edu/~brents/docs/panic.hotnets18.pdf) 
+* INCEPTIONN: A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks. *Youjie Li, et. al.* MICRO 2018 [[Paper]](https://jongse-park.github.io/files/paper/2018-micro-inceptionn.pdf) [[Slide]](https://jongse-park.github.io/files/slide/2018-micro-inceptionn.pdf)
 * Accelerating Flow Processing Middleboxes with Programmable NICs. *YoungGyoun Moon, et.al.* ACM APSys, 2018 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3265723.3265744)]
 * Towards Converged SmartNIC Architecture for Bare Metal and Public Clouds at Tencent Scale. *Layong Luo*. APNet, 2018 [[Slide]](https://conferences.sigcomm.org/events/apnet2018/slides/larry.pdf)
 * Beyond SmartNICs: Towards a Fully Programmable Cloud (Invited Paper). *Adrian Caulfield, et.al.* HPSR, 2018 [[Paper]](https://ieeexplore.ieee.org/document/8850757/)
