@@ -2,6 +2,7 @@
 
 ### Papers
 
+- Rearchitecting the TCP Stack for I/O-Offloaded Content Delivery. *Taehyun Kim, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/kim-taehyun)
 - AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing. *Junru Li, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/li-junru)
 - FpgaNIC: An FPGA-based Versatile 100Gb SmartNIC for GPUs. *Zeke Wang, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/wang-zeke) [[Code]](https://github.com/RC4ML/FpgaNIC)
 - Faster Software Packet Processing on FPGA NICs with eBPF Program Warping. *Marco Bonola, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/bonola)
