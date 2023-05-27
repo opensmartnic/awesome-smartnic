@@ -75,6 +75,8 @@
 
 ### Blogs
 
+* 打造高性能 IaaS 计算架构，百度智能云 DPU 落地实践.  [[Website]](https://mp.weixin.qq.com/s/RC1KnekYhXaya5_Aw9yRpQ)
+
 * What Is a SmartNIC?  *Kevin Deierling*, Mellanox Blog, 2018 [[Website ]](https://blog.mellanox.com/2018/08/defining-smartnic/)
 
 * The new life of SmartNICs. *Mark Silberstein*, ACM SIGARCH, 2018 [[Website]](https://www.sigarch.org/the-new-life-of-smartnics/)
