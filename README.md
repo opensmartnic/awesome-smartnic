@@ -2,8 +2,10 @@
 
 ### Papers
 
+- Towards Accelerating Data Intensive Application's Shuffle Process Using SmartNICs.  *Jiaxin Lin, et.al.* SIGMETRICS, 2023 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589980)
 - Rearchitecting the TCP Stack for I/O-Offloaded Content Delivery. *Taehyun Kim, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/kim-taehyun)
 - RingLeader: Efficiently Offloading Intra-Server Orchestration to NICs. *Jiaxin Lin, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/lin)
+- Towards portable end-to-end network performance characterization of SmartNICs. *Tong Xing, et.al.* APSys, 2022 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3546591.3547528)
 - AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing. *Junru Li, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/li-junru)
 - FpgaNIC: An FPGA-based Versatile 100Gb SmartNIC for GPUs. *Zeke Wang, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/wang-zeke) [[Code]](https://github.com/RC4ML/FpgaNIC)
 - Faster Software Packet Processing on FPGA NICs with eBPF Program Warping. *Marco Bonola, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/bonola)
@@ -68,7 +70,7 @@
 
 ### Projects
 
-* Hellosnic: An elementary-level smartnic example, with fpga-based integrated structure. [Code](https://github.com/opensmartnic/hellosnic)
+* Hellosnic: An elementary-level smartnic example, with fpga-based integrated structure. [[Code]](https://github.com/opensmartnic/hellosnic)
 * OpenSNAPI: Toward a Unified API for SmartNICs [[Website]](https://www.ucfconsortium.org/projects/opensnapi/) [[Report](https://doi.org/10.2172/1645063)]
 * OpenNIC: An FPGA-based NIC platform for the open source community. *Xilinx*. [[Website](https://github.com/Xilinx/open-nic)] [Related Projects: [open-nic-shell](https://github.com/Xilinx/open-nic-shell), [driver](https://github.com/Xilinx/open-nic-driver)] [[Video](https://www.bilibili.com/video/BV1V64y1m7g3)]
 * ESnet SmartNIC hardware design repository. *Lawrence Berkeley National Laboratory.* [[Code]](https://github.com/esnet/esnet-smartnic-hw)
