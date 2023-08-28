@@ -2,9 +2,13 @@
 
 ### Papers
 
+- Unleashing SmartNIC Packet Processing Performance in P4. *Jiarong Xing, et.al.* SIGCOMM, 2023 [[Paper]](https://jxing.me/pdf/pipeleon-sigcomm23.pdf), [[Code]](https://github.com/jiarong0907/Pipeleon)
+- Characterizing Off-path SmartNIC for Accelerating Distributed Systems. *Xingda Wei, et.al.* OSDI, 2023 [[Paper]](https://www.usenix.org/conference/osdi23/presentation/wei-smartnic), [[Code]](https://github.com/smartnickit-project)
 - Towards Accelerating Data Intensive Application's Shuffle Process Using SmartNICs.  *Jiaxin Lin, et.al.* SIGMETRICS, 2023 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589980)
 - Rearchitecting the TCP Stack for I/O-Offloaded Content Delivery. *Taehyun Kim, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/kim-taehyun)
 - RingLeader: Efficiently Offloading Intra-Server Orchestration to NICs. *Jiaxin Lin, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/lin)
+- OXDP: Offloading XDP to SmartNIC for Accelerating Packet Processing. *Feng Wang, et.al.* ICPADS, 2023 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10077996)
+- Adaptive SmartNIC Offloading for Unleashing the Performance of Protocol-Oblivious Forwarding. *Qian Zhang, et.al.*  IOT, 2023. [[Paper]](http://www.zuqingzhu.info/pub_doc/2022/POF_offloading_final.pdf)
 - Towards portable end-to-end network performance characterization of SmartNICs. *Tong Xing, et.al.* APSys, 2022 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3546591.3547528)
 - AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing. *Junru Li, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/li-junru)
 - FpgaNIC: An FPGA-based Versatile 100Gb SmartNIC for GPUs. *Zeke Wang, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/wang-zeke) [[Code]](https://github.com/RC4ML/FpgaNIC)
