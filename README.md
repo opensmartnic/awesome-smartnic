@@ -4,6 +4,7 @@
 
 - Unleashing SmartNIC Packet Processing Performance in P4. *Jiarong Xing, et.al.* SIGCOMM, 2023 [[Paper]](https://jxing.me/pdf/pipeleon-sigcomm23.pdf), [[Code]](https://github.com/jiarong0907/Pipeleon)
 - Characterizing Off-path SmartNIC for Accelerating Distributed Systems. *Xingda Wei, et.al.* OSDI, 2023 [[Paper]](https://www.usenix.org/conference/osdi23/presentation/wei-smartnic), [[Code]](https://github.com/smartnickit-project)
+- SmartDS: Middle-Tier-centric SmartNIC Enabling Application-aware Message Split for Disaggregated Block Storage. *Jie Zhang, et.al.* ISCA, 2023 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3579371.3589077)
 - Towards Accelerating Data Intensive Application's Shuffle Process Using SmartNICs.  *Jiaxin Lin, et.al.* SIGMETRICS, 2023 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589980)
 - Rearchitecting the TCP Stack for I/O-Offloaded Content Delivery. *Taehyun Kim, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/kim-taehyun)
 - RingLeader: Efficiently Offloading Intra-Server Orchestration to NICs. *Jiaxin Lin, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/lin)
