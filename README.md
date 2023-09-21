@@ -82,6 +82,8 @@
 
 ### Blogs
 
+* 网络的智能应该放在哪里：网卡、交换机还是 xPU？ *李博杰*，知乎 [[Website]](https://zhuanlan.zhihu.com/p/657498193)
+
 * 打造高性能 IaaS 计算架构，百度智能云 DPU 落地实践.  [[Website]](https://mp.weixin.qq.com/s/RC1KnekYhXaya5_Aw9yRpQ)
 
 * What Is a SmartNIC?  *Kevin Deierling*, Mellanox Blog, 2018 [[Website ]](https://blog.mellanox.com/2018/08/defining-smartnic/)
