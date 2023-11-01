@@ -82,6 +82,8 @@
 
 ### Blogs
 
+* NVIDIA Mellanox Bluefield-2 SmartNIC Hands-On Tutorial. [Levente Csikor](https://cslev.medium.com/?source=user_profile-------------------------------------), [[Part I]](https://medium.com/codex/getting-your-hands-dirty-with-mellanox-bluefield-2-dpus-deployed-in-cloudlabs-clemson-facility-bcb4e689c7e6), [[Part II]](https://medium.com/codex/nvidia-mellanox-bluefield-2-smartnic-dpdk-rig-for-dive-part-ii-change-mode-of-operation-a994f0f0e543), [[Part III]](https://medium.com/codex/nvidia-mellanox-bluefield-2-smartnic-dpdk-rig-for-dive-part-iii-ultimate-cloudlab-setup-7efd8b47a480), [[Part IV]](https://medium.com/codex/nvidia-mellanox-bluefield-2-smartnic-hands-on-tutorial-rig-for-dive-28364edc7732), [[Part V]](https://medium.com/codex/nvidia-mellanox-bluefield-2-smartnic-hands-on-tutorial-rig-for-dive-65a6b7278b23), [[Part VI]](https://medium.com/codex/nvidia-mellanox-bluefield-2-smartnic-hands-on-tutorial-rig-for-dive-b0cc4e8b2520), [[Part VII/A]](https://medium.com/codex/nvidia-mellanox-bluefield-2-smartnic-hands-on-tutorial-rig-for-dive-part-vii-1417e2e625bf), [[Part VII/B]](https://medium.com/codex/nvidia-mellanox-bluefield-2-smartnic-hands-on-tutorial-rig-for-dive-part-vii-b-contd-afaffce7af4f)
+
 * 网络的智能应该放在哪里：网卡、交换机还是 xPU？ *李博杰*，知乎 [[Website]](https://zhuanlan.zhihu.com/p/657498193)
 
 * 打造高性能 IaaS 计算架构，百度智能云 DPU 落地实践.  [[Website]](https://mp.weixin.qq.com/s/RC1KnekYhXaya5_Aw9yRpQ)
