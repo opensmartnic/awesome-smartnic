@@ -2,6 +2,8 @@
 
 ### Papers
 
+- LogNIC: A High-Level Performance Model for SmartNICs. *Zerui Guo, et.al.*, MICRO, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/LogNIC-micro23.pdf)
+- LEED: A Low-Power, Fast Persistent Key-Value Store on SmartNIC JBOFs. *Zerui Guo, et.al.*, SIGCOMM, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/leed-sigcomm23.pdf)
 - Unleashing SmartNIC Packet Processing Performance in P4. *Jiarong Xing, et.al.* SIGCOMM, 2023 [[Paper]](https://jxing.me/pdf/pipeleon-sigcomm23.pdf), [[Code]](https://github.com/jiarong0907/Pipeleon)
 - Characterizing Off-path SmartNIC for Accelerating Distributed Systems. *Xingda Wei, et.al.* OSDI, 2023 [[Paper]](https://www.usenix.org/conference/osdi23/presentation/wei-smartnic), [[Code]](https://github.com/smartnickit-project)
 - SmartDS: Middle-Tier-centric SmartNIC Enabling Application-aware Message Split for Disaggregated Block Storage. *Jie Zhang, et.al.* ISCA, 2023 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3579371.3589077)
@@ -15,6 +17,7 @@
 - FpgaNIC: An FPGA-based Versatile 100Gb SmartNIC for GPUs. *Zeke Wang, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/wang-zeke) [[Code]](https://github.com/RC4ML/FpgaNIC)
 - Faster Software Packet Processing on FPGA NICs with eBPF Program Warping. *Marco Bonola, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/bonola)
 - FlexTOE: Flexible TCP Offload with Fine-Grained Parallelism. *Rajath Shashidhara, et.al.* NSDI, 2022 [[Paper]](https://www.usenix.org/conference/nsdi22/presentation/shashidhara) [[Code]](https://github.com/tcp-acceleration-service/FlexTOE)
+- Re-architecting Traffic Analysis with Neural Network Interface Cards. *Giuseppe Siracusano, et. al. *. NSDI, 2022 [[Paper]](https://www.usenix.org/conference/nsdi22/presentation/siracusano)
 - LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483565) 
 - Automated SmartNIC Offloading Insights for Network Functions.*Yiming Qiu, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483583)
 - Xenic: SmartNIC-Accelerated Distributed Transactions. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483555)
