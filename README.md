@@ -2,6 +2,7 @@
 
 ### Papers
 
+- Demystifying Datapath Accelerator Enhanced Off-path SmartNIC. *Xuzheng Chen, Jie Zhang, et.al.* ICNP, 2024 [Paper](https://arxiv.org/abs/2402.03041)
 - LogNIC: A High-Level Performance Model for SmartNICs. *Zerui Guo, et.al.*, MICRO, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/LogNIC-micro23.pdf)
 - LEED: A Low-Power, Fast Persistent Key-Value Store on SmartNIC JBOFs. *Zerui Guo, et.al.*, SIGCOMM, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/leed-sigcomm23.pdf)
 - Unleashing SmartNIC Packet Processing Performance in P4. *Jiarong Xing, et.al.* SIGCOMM, 2023 [[Paper]](https://jxing.me/pdf/pipeleon-sigcomm23.pdf), [[Code]](https://github.com/jiarong0907/Pipeleon)
