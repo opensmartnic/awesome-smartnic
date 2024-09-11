@@ -2,6 +2,7 @@
 
 ### Papers
 
+- Demystifying Datapath Accelerator Enhanced Off-path SmartNIC. *Xuzheng Chen, Jie Zhang, et.al.* ICNP, 2024 [Paper](https://arxiv.org/abs/2402.03041)
 - LogNIC: A High-Level Performance Model for SmartNICs. *Zerui Guo, et.al.*, MICRO, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/LogNIC-micro23.pdf)
 - LEED: A Low-Power, Fast Persistent Key-Value Store on SmartNIC JBOFs. *Zerui Guo, et.al.*, SIGCOMM, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/leed-sigcomm23.pdf)
 - Unleashing SmartNIC Packet Processing Performance in P4. *Jiarong Xing, et.al.* SIGCOMM, 2023 [[Paper]](https://jxing.me/pdf/pipeleon-sigcomm23.pdf), [[Code]](https://github.com/jiarong0907/Pipeleon)
@@ -18,7 +19,7 @@
 - Faster Software Packet Processing on FPGA NICs with eBPF Program Warping. *Marco Bonola, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/bonola)
 - FlexTOE: Flexible TCP Offload with Fine-Grained Parallelism. *Rajath Shashidhara, et.al.* NSDI, 2022 [[Paper]](https://www.usenix.org/conference/nsdi22/presentation/shashidhara) [[Code]](https://github.com/tcp-acceleration-service/FlexTOE)
 - Re-architecting Traffic Analysis with Neural Network Interface Cards. *Giuseppe Siracusano, et. al. *. NSDI, 2022 [[Paper]](https://www.usenix.org/conference/nsdi22/presentation/siracusano)
-- LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483565) 
+- LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483565)  [[Code]](https://github.com/casys-kaist/LineFS)
 - Automated SmartNIC Offloading Insights for Network Functions.*Yiming Qiu, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483583)
 - Xenic: SmartNIC-Accelerated Distributed Transactions. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483555)
 
@@ -41,7 +42,7 @@
 * NICA: An Infrastructure for Inline Acceleration of Network Applications.  *Haggai Eran, et.al.* USENIX ATC, 2019 [[Paper]](https://www.usenix.org/conference/atc19/presentation/eran) [[Code]](https://github.com/acsl-technion/nica)
 * UniSec: a unified security framework with SmartNIC acceleration in public cloud. *Jinli Yan, et.al.* TURC, 2019
 * Loom: Flexible and Efficient NIC Packet Scheduling.  *Brent Stephens, et.al.* NSDI, 2019 [[Paper]](https://www.usenix.org/conference/nsdi19/presentation/stephens)
-* Floem: A Programming System for NIC-Accelerated Network Applications. *Phitchaya Mangpo Phothilimthana, et.al.* OSDI, 2018 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/phothilimthana) [[Slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_phothilimthana.pdf) 
+* Floem: A Programming System for NIC-Accelerated Network Applications. *Phitchaya Mangpo Phothilimthana, et.al.* OSDI, 2018 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/phothilimthana) [[Slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_phothilimthana.pdf)  [[Code]](https://github.com/mangpo/floem)
 * Your Programmable NIC Should be a Programmable Switch. *Brent Stephens, et.al.* HotNets, 2018 [[Paper]](https://www.cs.uic.edu/~brents/docs/panic.hotnets18.pdf) 
 * INCEPTIONN: A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks. *Youjie Li, et. al.* MICRO 2018 [[Paper]](https://jongse-park.github.io/files/paper/2018-micro-inceptionn.pdf) [[Slide]](https://jongse-park.github.io/files/slide/2018-micro-inceptionn.pdf)
 * Accelerating Flow Processing Middleboxes with Programmable NICs. *YoungGyoun Moon, et.al.* ACM APSys, 2018 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3265723.3265744)]
