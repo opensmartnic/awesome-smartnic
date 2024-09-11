@@ -2,6 +2,7 @@
 
 ### Papers
 
+- A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions. *Elie Kfoury, et.al.* Preprint, 2024. [[Paper]](https://arxiv.org/abs/2405.09499)
 - Demystifying Datapath Accelerator Enhanced Off-path SmartNIC. *Xuzheng Chen, Jie Zhang, et.al.* ICNP, 2024 [[Paper]](https://arxiv.org/abs/2402.03041)
 - LogNIC: A High-Level Performance Model for SmartNICs. *Zerui Guo, et.al.*, MICRO, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/LogNIC-micro23.pdf)
 - Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference. *Zhizhen Zhong, et.al.* SIGCOMM, 2023 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604821) [[Code]](https://github.com/hipersys-team/lightning)
@@ -20,6 +21,7 @@
 - Faster Software Packet Processing on FPGA NICs with eBPF Program Warping. *Marco Bonola, et.al.* ATC, 2022 [[Paper]](https://www.usenix.org/conference/atc22/presentation/bonola)
 - FlexTOE: Flexible TCP Offload with Fine-Grained Parallelism. *Rajath Shashidhara, et.al.* NSDI, 2022 [[Paper]](https://www.usenix.org/conference/nsdi22/presentation/shashidhara) [[Code]](https://github.com/tcp-acceleration-service/FlexTOE)
 - Re-architecting Traffic Analysis with Neural Network Interface Cards. *Giuseppe Siracusano, et. al. *. NSDI, 2022 [[Paper]](https://www.usenix.org/conference/nsdi22/presentation/siracusano)
+- FPGA-Based AI Smart NICs for Scalable Distributed AI Training Systems. *Rui Ma, et.al.* IEEE Computer Architecture Letters, 2022 [[Paper]](https://arxiv.org/abs/2204.10943)
 - LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483565)  [[Code]](https://github.com/casys-kaist/LineFS)
 - Automated SmartNIC Offloading Insights for Network Functions.*Yiming Qiu, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483583)
 - Xenic: SmartNIC-Accelerated Distributed Transactions. *Jongyul Kim, et.al.* SOSP, 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483555)
