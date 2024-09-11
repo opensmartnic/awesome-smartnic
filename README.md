@@ -3,6 +3,7 @@
 ### Papers
 
 - A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions. *Elie Kfoury, et.al.* Preprint, 2024. [[Paper]](https://arxiv.org/abs/2405.09499)
+- FPGA-based SmartNIC for Distributed Machine Learning. *Hongyu He*. ETH Master Thesis, 2024. [[Link]](https://www.research-collection.ethz.ch/handle/20.500.11850/670931)
 - Demystifying Datapath Accelerator Enhanced Off-path SmartNIC. *Xuzheng Chen, Jie Zhang, et.al.* ICNP, 2024 [[Paper]](https://arxiv.org/abs/2402.03041)
 - LogNIC: A High-Level Performance Model for SmartNICs. *Zerui Guo, et.al.*, MICRO, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/LogNIC-micro23.pdf)
 - Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference. *Zhizhen Zhong, et.al.* SIGCOMM, 2023 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604821) [[Code]](https://github.com/hipersys-team/lightning)
