@@ -2,8 +2,9 @@
 
 ### Papers
 
-- Demystifying Datapath Accelerator Enhanced Off-path SmartNIC. *Xuzheng Chen, Jie Zhang, et.al.* ICNP, 2024 [Paper](https://arxiv.org/abs/2402.03041)
+- Demystifying Datapath Accelerator Enhanced Off-path SmartNIC. *Xuzheng Chen, Jie Zhang, et.al.* ICNP, 2024 [[Paper]](https://arxiv.org/abs/2402.03041)
 - LogNIC: A High-Level Performance Model for SmartNICs. *Zerui Guo, et.al.*, MICRO, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/LogNIC-micro23.pdf)
+- Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference. *Zhizhen Zhong, et.al.* SIGCOMM, 2023 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604821) [[Code]](https://github.com/hipersys-team/lightning)
 - LEED: A Low-Power, Fast Persistent Key-Value Store on SmartNIC JBOFs. *Zerui Guo, et.al.*, SIGCOMM, 2023 [[Paper]](https://pages.cs.wisc.edu/~mgliu/papers/leed-sigcomm23.pdf)
 - Unleashing SmartNIC Packet Processing Performance in P4. *Jiarong Xing, et.al.* SIGCOMM, 2023 [[Paper]](https://jxing.me/pdf/pipeleon-sigcomm23.pdf), [[Code]](https://github.com/jiarong0907/Pipeleon)
 - Characterizing Off-path SmartNIC for Accelerating Distributed Systems. *Xingda Wei, et.al.* OSDI, 2023 [[Paper]](https://www.usenix.org/conference/osdi23/presentation/wei-smartnic), [[Code]](https://github.com/smartnickit-project)
