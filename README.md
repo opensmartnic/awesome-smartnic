@@ -2,6 +2,7 @@
 
 ### Papers
 
+- SuperNIC: An FPGA-Based, Cloud-Oriented SmartNIC. *Will Lin, Yizhou Shan, et.al.* FPGA, 2024. [[Paper]](https://arxiv.org/abs/2109.07744)
 - A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions. *Elie Kfoury, et.al.* Preprint, 2024. [[Paper]](https://arxiv.org/abs/2405.09499)
 - FPGA-based SmartNIC for Distributed Machine Learning. *Hongyu He*. ETH Master Thesis, 2024. [[Link]](https://www.research-collection.ethz.ch/handle/20.500.11850/670931)
 - Demystifying Datapath Accelerator Enhanced Off-path SmartNIC. *Xuzheng Chen, Jie Zhang, et.al.* ICNP, 2024 [[Paper]](https://arxiv.org/abs/2402.03041)
