@@ -2,6 +2,7 @@
 
 ### Papers
 
+- LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs. *Mo Sun, Zihan Yang, Changyue Liao, et.al.* Preprint, 2024. [[Paper]](https://arxiv.org/abs/2409.00918)
 - Network-Offloaded Bandwidth-Optimal Broadcast and Allgather for Distributed AI. *Mikhail Khalilov, et.al.* Preprint, 2024. [[Paper]](https://arxiv.org/abs/2408.13356)
 - SuperNIC: An FPGA-Based, Cloud-Oriented SmartNIC. *Will Lin, Yizhou Shan, et.al.* FPGA, 2024. [[Paper]](https://arxiv.org/abs/2109.07744)
 - A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions. *Elie Kfoury, et.al.* Preprint, 2024. [[Paper]](https://arxiv.org/abs/2405.09499)
