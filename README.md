@@ -19,7 +19,7 @@
 - SmartDS: Middle-Tier-centric SmartNIC Enabling Application-aware Message Split for Disaggregated Block Storage. *Jie Zhang, et.al.* ISCA, 2023 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3579371.3589077)
 - Towards Accelerating Data Intensive Application's Shuffle Process Using SmartNICs.  *Jiaxin Lin, et.al.* SIGMETRICS, 2023 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589980)
 - Rearchitecting the TCP Stack for I/O-Offloaded Content Delivery. *Taehyun Kim, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/kim-taehyun)
-- RingLeader: Efficiently Offloading Intra-Server Orchestration to NICs. *Jiaxin Lin, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/lin)
+- RingLeader: Efficiently Offloading Intra-Server Orchestration to NICs. *Jiaxin Lin, et.al.* NSDI, 2023 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/lin), [[Code]](https://github.com/utnslab/RingleaderNIC)
 - OXDP: Offloading XDP to SmartNIC for Accelerating Packet Processing. *Feng Wang, et.al.* ICPADS, 2023 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10077996)
 - Adaptive SmartNIC Offloading for Unleashing the Performance of Protocol-Oblivious Forwarding. *Qian Zhang, et.al.*  IOT, 2023. [[Paper]](http://www.zuqingzhu.info/pub_doc/2022/POF_offloading_final.pdf)
 - A Framework for Neural Network Inference on FPGA-Centric SmartNICs. *Anqi Guo, et.al.* FPL, 2022 [[Paper]](https://www.bu.edu/caadlab/guo2022framework.pdf)
