@@ -2,6 +2,8 @@
 
 ### Papers
 
+- SwCC: Software-Programmable and Per-Packet Congestion Control in RDMA Engine. *Hongjing Huang, Jie Zhang, et.al.* ATC, 2025 [[paper]](https://www.usenix.org/conference/atc25/presentation/huang-hongjing)
+- RpcNIC: Enabling Efficient Datacenter RPC Offloading on PCIe-attached SmartNICs. *Jie Zhang, Hongjing Huang, et.al.* HPCA, 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/10946709)
 - LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs. *Mo Sun, Zihan Yang, Changyue Liao, et.al.* Preprint, 2024. [[Paper]](https://arxiv.org/abs/2409.00918)
 - Network-Offloaded Bandwidth-Optimal Broadcast and Allgather for Distributed AI. *Mikhail Khalilov, et.al.* Preprint, 2024. [[Paper]](https://arxiv.org/abs/2408.13356)
 - Burstable Cloud Block Storage with Data Processing Units. *Junyi Shu, et.al.* OSDI, 2024. [[Paper]](https://www.usenix.org/conference/osdi24/presentation/shu)
